@@ -11,7 +11,7 @@ echo CONST_1;
 
 var_dump(CONST_2);
 
-const NAME = 'Bobb';
+const NAME = 'Bobbttt';
 echo "Hello, ";
 
 //define("CONST_1", "new value 1");
